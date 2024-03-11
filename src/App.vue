@@ -66,7 +66,7 @@
           </v-badge>
         </div>
 
-        <v-btn light text href="https://github.com/harryho/vue2crm" target="_blank">
+        <v-btn light text href="#" target="_blank">
           <v-img height="30" src="@/src/assets/icons/hoggar.webp" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"/>
           <span style="margin-left:0.4rem;">GitHub</span>
         </v-btn>
