@@ -66,10 +66,12 @@
           </v-badge>
         </div>
 
-        <v-btn light text href="#" target="_blank">
-          <v-img height="30" src="/src/assets/icons/hoggar.webp" class="1em" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"/>
-          <span style="margin-left:0.4rem;">SuHogarSinFronteras</span>
-        </v-btn>
+        <div class="button-container">
+          <v-btn light text href="#" target="_blank">
+            <v-img src="/src/assets/icons/hoggar.webp" height="30" width="30" class="icon" aria-hidden="true"></v-img>
+            <span style="margin-left: 0.4rem;">SuHogarSinFronteras</span>
+          </v-btn>
+        </div>
       </v-app-bar>
       <v-content>
         <v-container fluid>
@@ -209,6 +211,9 @@ export default class App extends Vue {
 }
 </script>
 <style scoped>
+.icon {
+  margin-right: 0.4rem;
+}
 .avatar {
   border-radius: 50%;
 }
