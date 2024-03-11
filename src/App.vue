@@ -67,8 +67,8 @@
         </div>
 
         <v-btn light text href="#" target="_blank">
-          <v-img height="30" src="/src/assets/icons/hoggar.webp" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"/>
-          <span style="margin-left:0.4rem;">GitHub</span>
+          <v-img height="30" src="/src/assets/icons/hoggar.webp" class="1em" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"/>
+          <span style="margin-left:0.4rem;">SuHogarSinFronteras</span>
         </v-btn>
       </v-app-bar>
       <v-content>
