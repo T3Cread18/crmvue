@@ -68,7 +68,7 @@
 
         <div class="button-container">
           <v-btn light text href="#" target="_blank">
-            <v-img src="/src/assets/icons/hoggar.webp" height="30" width="30" class="icon" aria-hidden="true"></v-img>
+            <v-img src="/src/assets/icons/favicon-16x16.png" height="30" width="30" class="icon" aria-hidden="true"></v-img>
             <span style="margin-left: 0.4rem;">SuHogarSinFronteras</span>
           </v-btn>
         </div>
