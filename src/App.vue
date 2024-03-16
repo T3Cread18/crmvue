@@ -79,7 +79,7 @@
         </v-container>
       </v-content>
       <v-footer :inset="true" style="justify-content:center; text-align: center" app>
-        <span>&copy; Vue-CRM 2020</span>
+        <span>&copy; SuHogarSinFronteras</span>
       </v-footer>
     </template>
   </v-app>
